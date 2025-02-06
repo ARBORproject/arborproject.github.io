@@ -1,0 +1,16 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: test1
+    entries:
+      - title: test2
+        url: https://ajyl.github.io
+      - title: test3
+        url: https://wendlerc.github.io/
+
+  - title: Community Guidelines
+    url: /community_guidelines
+
+  - title: Join our Discord! (TODO)
+    url: https://google.com
