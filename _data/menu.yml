@@ -2,6 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: Project Page
+    url: https://github.com/Arbor1/Arbor
+
+  - title: Wiki
+    url: https://github.com/Arbor1/Arbor/wiki
+
+  - title: Research Questions
+    url: /research_questions
+
   - title: test1
     entries:
       - title: test2

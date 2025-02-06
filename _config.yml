@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The goal is to make this as open as possible, and to find ways to let people of all types of backgrounds participate.
   Feel free to connect with us!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arbor.github.io"
-github_username:  arbor
+url: "https://arbor1.github.io"
+github_username: arbor1
 
 # Build settings
 #theme: minima
@@ -33,7 +33,9 @@ plugins:
 
 theme_config:
   show_description: false
-  appearance: "dark"
+  appearance: "auto"
+  lowercase_titles: true
+
 
 sass:
   style: compressed
