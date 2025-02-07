@@ -15,4 +15,4 @@ Our goal is to create a central clearinghouse where people can (1) ask, discuss,
 The goal is to make this as open as possible, and to find ways to let people of all types of backgrounds participate.
 
 
-Our efforts are inspired by initiatives like [polymath](https://en.wikipedia.org/wiki/Polymath_Project){:target="_blank"} and [Equational Theories Project](https://teorth.github.io/equational_theories){:target="_blank"}.
+Our efforts are inspired by initiatives like [polymath](https://en.wikipedia.org/wiki/Polymath_Project) and [Equational Theories Project](https://teorth.github.io/equational_theories)
