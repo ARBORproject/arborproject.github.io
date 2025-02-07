@@ -9,17 +9,7 @@ entries:
     url: https://github.com/Arbor1/Arbor/wiki
 
   - title: Research Questions
-    url: /research_questions
+    url: https://github.com/Arbor1/Arbor/wiki/Research-Questions
 
-  - title: test1
-    entries:
-      - title: test2
-        url: https://ajyl.github.io
-      - title: test3
-        url: https://wendlerc.github.io/
-
-  - title: Community Guidelines
-    url: /community_guidelines
-
-  - title: Join our Discord! (TODO)
-    url: https://google.com
+  - title: Join our Discord! (We are using NDIF's server - once you join, look for Arbor related channels.)
+    url: https://discord.gg/3k6wnyk5
