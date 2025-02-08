@@ -1,18 +1,43 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Welcome to ARBOR
----
+# The Arbor Project
 
 Welcome! 
-Arbor is an initative to organize a radically open, massively collaborative project where people across the internet can work together publicly and in real time, to analyze recent reasoning models, collectively.
-By eliminating duplicative work, we hope to dramatically accelerate progress.
+Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is a radically open collaborative project where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
+By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
 
-
-Our goal is to create a central clearinghouse where people can (1) ask, discuss, and prioritize research questions, (2) post and discuss full (or even better, early+partial) experimental results, (3) host a Wiki-like repository to self-organize and communicate what we have learned.
+Our goal is to create a central clearinghouse where people can:
+* Ask, discuss, and prioritize research questions
+* Post, discuss, and analyze early and partial experimental results
+* Serve as a clearinghouse for what the research community has learned.
+  
 The goal is to make this as open as possible, and to find ways to let people of all types of backgrounds participate.
 
 
-Our efforts are inspired by initiatives like [polymath](https://en.wikipedia.org/wiki/Polymath_Project) and [Equational Theories Project](https://teorth.github.io/equational_theories)
+## Why is interpretability research urgent for reasoning models?
+
+Interpretability research is important in general, but especially urgent in the case of reasoning models. (By "reasoning model," we mean LLMs that have been trained to exploit extended inference-time computation.) These systems appear to be powerful, yet remain mysterious. Understanding them better can help us create safer technology, sooner. It's also a grand intellectual challenge.
+
+
+## Why work collectively, in the open?
+
+Open-source reasoning models have appeared only recently, and many different groups are looking at them right now for the first time--likely working along similar lines. We think the community can move fast and save work by sharing partial results and early ideas. Although the academic machine learning already has an admirable culture of sharing preprints of finished work, we think it's worth experimenting with a more open model.
+
+An important element of our plan is to find ways for people many levels of experience and skill to participate. In a project like this, there will be important roles for experience ML researchers, for people looking to break into ML research with  small concrete coding projects, people who want to work on pure theory, who people like analyzing data, etc. In fact, there will may be room for "citizen science" where people with no direct machine learning experience can help find patterns in model outputs and inputs.
+
+Our efforts are inspired by the world of open-source software, and also mathematical initiatives like [polymath](https://en.wikipedia.org/wiki/Polymath_Project) and [Equational Theories Project](https://teorth.github.io/equational_theories)
+
+## How to participate
+
+Some starting points:
+
+* Join our Discord
+* Add your name and your interests to this "people" page
+* If you have an "open problem" or specific question, please add it to the central list. If you can think of specific experiments that would help resolve the question, please add those too!
+* If you're looking for ways to dive in and help, take a look at our open projects list. And if there's a specific experiment you plan to execute, please add a note that you're working on it.
+* If you have finished work, or a paper on arxiv people might be interested in, please publicize it on Discord, and add a link on the wiki.
+
+If there's an open question that is seeing activity, we encourage you to create a dedicated wiki page for discussion and coordination.
+
+### A note on authorship
+
+An issue that will naturally come up in this type of project is credit, especially authorship on papers. Indeed, our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We may add more formal guidance in the future, but for now we advocate an inclusive attitude toward authorship. 
