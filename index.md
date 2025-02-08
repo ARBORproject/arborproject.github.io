@@ -30,13 +30,12 @@ Our efforts are inspired by the world of open-source software, and also mathemat
 
 Some starting points:
 
-* Join our Discord
-* Add your name and your interests to this "people" page
-* If you have an "open problem" or specific question, please add it to the central list. If you can think of specific experiments that would help resolve the question, please add those too!
-* If you're looking for ways to dive in and help, take a look at our open projects list. And if there's a specific experiment you plan to execute, please add a note that you're working on it.
-* If you have finished work, or a paper on arxiv people might be interested in, please publicize it on Discord, and add a link on the wiki.
+* Join our [Discord](https://discord.gg/3k6wnyk5)! We are using NDIF's server - once you join, look for channels related to Arbor.
+* Add your name and your interests to the wiki [People page](https://github.com/Arbor1/Arbor/wiki/People)
+* If you have an "open problem" or specific question, please add it to the [Research Questions](https://github.com/Arbor1/Arbor/wiki/Research-Questions) list. If you can think of specific experiments that would help resolve the question, please add those too!
+* If you're looking for ways to dive in and help, the [Research Questions](https://github.com/Arbor1/Arbor/wiki/Research-Questions) list is a good place to start. And if there's a specific experiment you plan to execute, please add a note that you're working on it.
+* If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/Arbor1/Arbor/wiki/Bibliography).
 
-If there's an open question that is seeing activity, we encourage you to create a dedicated wiki page for discussion and coordination.
 
 ### A note on authorship
 
