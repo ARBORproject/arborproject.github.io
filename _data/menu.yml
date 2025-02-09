@@ -2,14 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Project Page
-    url: https://github.com/Arbor1/Arbor
-
   - title: Wiki
-    url: https://github.com/Arbor1/Arbor/wiki
+    url: https://github.com/Arbor1/arbor1.github.io/wiki
 
   - title: Research Questions
-    url: https://github.com/Arbor1/Arbor/wiki/Research-Questions
+    url: https://github.com/Arbor1/arbor1.github.io/wiki/Research-Questions
 
   - title: Join our Discord! (We are using NDIF's server - once you join, look for Arbor related channels.)
     url: https://discord.gg/3k6wnyk5
