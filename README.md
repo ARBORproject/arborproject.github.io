@@ -39,3 +39,39 @@ Some starting points:
 ### A note on authorship
 
 An issue that will naturally come up in this type of project is credit, especially authorship on papers. Indeed, our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We may add more formal guidance in the future, but for now we advocate an inclusive attitude toward authorship. 
+
+
+# How to use this repository.
+
+## Discussions
+
+The Discussions section is designed for collaborators to self-organize and collaborate together. Please use the categories as described below:
+
+### General:
+
+This is a place to give meta-level suggestions on how to run our collaboration. Are there processes that are currently not working for you? Is there a better way of tracking results?
+
+Remember, this collaboration is meant for everyone -- feel free to suggest improvements!
+
+
+### Request for Plots:
+
+This is a place for community members to post "RFPs" -- [Requests for Plots](https://mlcollective.org/rfp/) - inspired by [ML Collective](https://mlcollective.org/)!
+
+Taken from ML Collective:
+"A Request for Plot (RFP) is a method for jump starting a decentralized collaboration by pitching a project starting with a big-picture idea and ending the pitch with a concrete description of the first plot that one would produce to start the project. It is a call for collaborators, and anyone that wishes to work on the project has only to produce the plot to start the collaboration!
+
+An RFP is like a request for research (e.g. from [OpenAI](https://github.com/openai/requests-for-research) and from our own [Sebastian Ruder](https://ruder.io/requests-for-research/)). But whereas these requests for research often describe broader directions for inspiration, RFPs further ground it into a concrete first step for implementation and connote an open invitation for collaboration."
+
+### Show and Tell:
+
+This is a place to share your findings, including preliminary or negative results! If easier, please feel free to link to your own blog post/ArXiv links.
+
+## Wiki
+
+The Wiki section is where we will accumulate results to track our progress. The Wiki is editable by anyone! Feel free to contribute.
+
+# Discord
+
+Feel free to join our [Discord](https://discord.gg/3k6wnyk5)! We are using NDIF's server - once you join, look for channels related to Arbor.
+
