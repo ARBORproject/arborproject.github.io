@@ -74,5 +74,5 @@ The Wiki section is where we will accumulate results to track our progress. The 
 
 # Discord
 
-Feel free to join our [Discord](https://discord.gg/3k6wnyk5)! We are using NDIF's server - once you join, look for channels related to Arbor.
+Feel free to join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to Arbor.
 
