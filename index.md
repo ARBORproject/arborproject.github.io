@@ -30,7 +30,7 @@ Our efforts are inspired by the world of open-source software, and also mathemat
 
 Some starting points:
 
-* Join our [Discord](https://discord.gg/3k6wnyk5)! We are using NDIF's server - once you join, look for channels related to Arbor.
+* Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to Arbor.
 * Add your name and your interests to the wiki [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People)
 * If you have an "open problem" or specific question, please add it to the [Research Questions](https://github.com/ArborProject/arborproject.github.io/wiki/Research-Questions) list.
 * If you can think of specific experiments that would help resolve the question, please feel free to make a ["Request for Plot"](https://github.com/ArborProject/arborproject.github.io/discussions/categories/request-for-plots)!
