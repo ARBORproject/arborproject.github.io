@@ -22,17 +22,17 @@ If you start a project, or raise a research question, please be clear about whet
 * just curious to know the answer, but have no time for it (and no expectation of authorship)
 
 If you are just suggesting a research question, and don't have the time to follow up or work on it yourself,
-that's absolutely fine: but please be clear so that others know they will be taking the lead.
+that's absolutely fine: but please be clear so that others know they have the opportunity to take the lead.
 
 ### Active 
 
-In many cases, it can be helpful to designate "owners" for a project (something like "first authors" of a paper): people who will play a large part,
+We strongly encourage designating "owners" for any active project: people who will play a large part,
 and who can devote time to making sure the research moves forward and thinking about the project as a whole. If you suggest
 a project that you're already working on, or are committing to work on, then it probably makes sense to label
 yourself as an owner. On the other hand, if you're joining a project with existing owners, please discuss
 with them before adding yourself.
 
-Not every project has to have an owner, and please only put yourself as an owner if
+Please only put yourself as an owner if
 you really can spend time on a project. If you later decide you can't, you can always take yourself off
 the owner list.
 
@@ -41,12 +41,12 @@ Although we encourage openness at all stages, it's conceivable that for a very a
 number of contributors. In these cases, we encourage project owners to think about ways of subdividing work into multiple
 projects, or, if necessary, place a notice on the project page that they already have as many contributors as they can handle.
 
-### Dormant
+### Inactive: Completed / Dormant
 
 No project will last forever. In some cases, a project will end with a paper or blog; the owners should prominently note that
-the project has been completed. (As a bonus: suggest future work building on the results, to seed new projects!)
+the project has been **completed**. (As a bonus: suggest future work building on the results, to seed new projects!)
 Similarly, if a project never quite gets off the ground, and no one has time to devote to it,
-please add a note that it's no longer active--and be welcoming to anyone who eventually does have time in the future.
+please remove any owners, and add a note that it's  **dormant**--and be welcoming to anyone who eventually does have time in the future.
 
 ## Sharing authorship on academic papers and other write-ups
 
@@ -54,9 +54,10 @@ What happens when it's time to write up some exciting results?
 
 For an academic paper, we recommend:
 * Project owner(s) will likely be first authors
+  * If there are other core contributors, consider adding as co-first authors.
 * Anyone who made a significant contribution that is part of the write-up should be an author
   * We suggest being generous with what counts as "useful"
-  * At the same time, it should be a real contribution, and you shouldn't assume you'll be an author if you just put your name on a page, or correct a typo.
+  * At the same time, it should be a real contribution, and you shouldn't assume you'll be an author if you just put your name on a page, or corrected a typo.
 * Authorship should be discussed explicitly by the time writing starts.
   * These conversations can feel awkward, but are important to have
   * There are several senior academics on this project who can give advice if there's a conflict
