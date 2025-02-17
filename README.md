@@ -61,33 +61,26 @@ Here we pose a few research questions that are on our minds. We are hoping commu
 
 ## High-level questions
 ### Output Behavior vs. Inner Mechanisms
-To what extent does the stated verbal reasoning reflect the actual process that creates the final answer?
-
-Behaviorally, R1's outputs look like it is doing search. Is it actually implementing search? E.g., can we probe out multiple potential next steps from a hidden state?
-
-What happens mechanistically when R1 has an "aha moment", does it mark a good intermediate result with that?
+* To what extent does the stated verbal reasoning reflect the actual process that creates the final answer?
+* Behaviorally, R1's outputs look like it is doing search. Is it actually implementing search? E.g., can we probe out multiple potential next steps from a hidden state?
+* What happens mechanistically when R1 has an "aha moment", does it mark a good intermediate result with that?
 
 ### "Mechanisms"
-How does R1 pick the next step? Does it have a notion of step (as in picking the next sub-problem)?
-
-Does R1 learn to verify? Does it know the difference between right and wrong intermediate results?
+* How does R1 pick the next step? Does it have a notion of step (as in picking the next sub-problem)?
+* Does R1 learn to verify? Does it know the difference between right and wrong intermediate results?
 
 ### Understanding RL vs. Base Models
-What capabilities pre-exist in base models (and perhaps enhanced with RL), and what capabilities are an emergence from RL?
-
-How do concept representations differ between the pre-distillation base model (e.g. Llama 7B) and the distilled model?
-
-Is the base model (Deepseek-V3) also capable of solving the task when prompted with R1’s CoTs that led the R1 to the correct result?
-
-If we find elements of reasoning in R1 (lookahead etc.) can we trace some of them back to the base model (e.g., as a mechanism to do better in next-token prediction)?
-
-Do base and reasoning model's next token probabilities disagree at interesting positions?
+* What capabilities pre-exist in base models (and perhaps enhanced with RL), and what capabilities are an emergence from RL?
+* How do concept representations differ between the pre-distillation base model (e.g. Llama 7B) and the distilled model?
+* Is the base model (Deepseek-V3) also capable of solving the task when prompted with R1’s CoTs that led the R1 to the correct result?
+* If we find elements of reasoning in R1 (lookahead etc.) can we trace some of them back to the base model (e.g., as a mechanism to do better in next-token prediction)?
+* Do base and reasoning model's next token probabilities disagree at interesting positions?
 
 ## Potential Representations to Probe For
-Backtracking
-Verifier
-Problem Difficulty
-"thinking time is over"
+* Backtracking
+* Verifier
+* Problem Difficulty
+* "thinking time is over"
 
 # Discord
 
