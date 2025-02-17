@@ -3,7 +3,7 @@
 Welcome! 
 Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is a radically open collaborative project where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
-To get started, see [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions).
+To get started, take a look at the list of [project discussions](https://github.com/ArborProject/arborproject.github.io/discussions). If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like!
 
 Our goal is to create a central clearinghouse where people can:
 * Ask, discuss, and prioritize research questions
