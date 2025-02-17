@@ -3,7 +3,7 @@
 Welcome! 
 Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is a radically open collaborative project where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
-To participate in any on-going projects, see [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions).
+To get started, see [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions).
 
 Our goal is to create a central clearinghouse where people can:
 * Ask, discuss, and prioritize research questions
@@ -16,6 +16,8 @@ All of our on-going projects can be found in [Discussions](https://github.com/Ar
 ## Why is interpretability research urgent for reasoning models?
 
 Interpretability research is important in general, but especially urgent in the case of reasoning models. (By "reasoning model," we mean LLMs that have been trained to exploit extended inference-time computation.) These systems appear to be powerful, yet remain mysterious. Understanding them better can help us create safer technology, sooner. It's also a grand intellectual challenge.
+
+See [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to participate!
 
 
 ## Why work collectively, in the open?
