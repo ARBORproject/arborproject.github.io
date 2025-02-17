@@ -34,17 +34,17 @@ Join [Discussions](https://github.com/ArborProject/arborproject.github.io/discus
 
 Some starting points:
 
-* [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) is where all projects are being tracked, feel free to start a new discussion.
-* Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to Arbor.
-* Add your name and your interests to the wiki [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People)
+* We're using github [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to track active projects. If you want to propose or start a new project, follow feel free to start a new project thread; you can use [this intro](https://github.com/ArborProject/arborproject.github.io/discussions/1) as a template.
+* Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to Arbor.
+* See who's involved at the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People). Feel free to add your name and your interests!
 * If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/ArborProject/arborproject.github.io/wiki/Bibliography).
 * Please read through our community guidelines and notes on authorship/credit assignment in our [Wiki](https://github.com/ArborProject/arborproject.github.io/wiki/).
 
 
 ### A note on authorship
 
-An issue that will naturally come up in this type of project is credit, especially authorship on papers. Indeed, our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We may add more formal guidance in the future, but for now we advocate an inclusive attitude toward authorship.
-Please see our [Wiki](https://github.com/ArborProject/arborproject.github.io/wiki/) for more information.
+An issue that will naturally come up in this type of project is credit, especially authorship on papers. Indeed, our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We may add more formal guidance in the future, but for now we advocate an inclusive attitude toward authorship. See [CREDIT.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md) for more information.
+
 
 
 # How to use this repository.
@@ -56,7 +56,7 @@ The first post of each thread should follow a strict template, which includes th
 The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and TODO for examples.
 
 
-# Some On-going Research Questions
+# Some on-going Research Questions
 
 Here we pose a few research questions that are on our minds. We are hoping community members will contribute experiments to update our knowledge in these broad questions.
 
