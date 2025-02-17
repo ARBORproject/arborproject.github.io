@@ -47,12 +47,11 @@ Please see our [Wiki](https://github.com/ArborProject/arborproject.github.io/wik
 
 # How to use this repository.
 
-## Discussions: Project Tracking
-
 The [Discussion](https://github.com/ArborProject/arborproject.github.io/discussions) section is where all projects are being tracked.
 Anyone can participate, as well as kick off new projects.
 
-The first post of each thread should follow a strict template. Please see TODO for instructions and TODO for examples.
+The first post of each thread should follow a strict template, which includes the research question, current contributors, and project status.
+The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and TODO for examples.
 
 
 # Some On-going Research Questions
