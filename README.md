@@ -1,4 +1,4 @@
-# The Arbor Project
+# Welcome to Arbor
 
 Welcome! 
 Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
