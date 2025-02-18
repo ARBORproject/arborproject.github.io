@@ -45,8 +45,8 @@ If a project never quite gets off the ground, and no one has time to devote to i
 
 ### Completed
 
-A project can be considered completed when all planned experiments are done, the data is analyzed, and the results are written up in a report or publication. If a project ends with a paper or blog; the owners should prominently note that
-the project has been **completed**. (As a bonus: suggest future work building on the results, to seed new projects!)
+A project is considered completed when experiments are done, the data is analyzed, and the results are written up in a report or publication. If a project ends with a paper or blog; the owners should prominently note that
+the project has been **completed**. We ask that onwers consider mentioning the ARBOR Project in reports and publications. (As a bonus: suggest future work building on the results, to seed new projects!)
 
 ## Authorship and credit
 
