@@ -43,7 +43,7 @@ Some starting points:
 
 ### A note on authorship
 
-Our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We advocate a fair, generous attitude toward authorship, as described in [CREDIT.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md) for more information.
+Our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We advocate a fair, generous attitude toward authorship; see [CREDIT.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md) for more information.
 
 
 
