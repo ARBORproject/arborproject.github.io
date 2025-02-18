@@ -1,30 +1,30 @@
 # The Arbor Project
 
 Welcome! 
-Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is a radically open collaborative project where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
+Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
 To get started, take a look at the list of [project discussions](https://github.com/ArborProject/arborproject.github.io/discussions). If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like!
 
-Our goal is to create a central clearinghouse where people can:
+Our goal is to create a clearinghouse where people can:
 * Ask, discuss, and prioritize research questions
 * Post, discuss, and analyze early and partial experimental results
-* Serve as a clearinghouse for what the research community has learned.
+* Provide a reference for what the research community has learned.
   
-The goal is to make this as open as possible, and to find ways to let people of all types of backgrounds participate.
-All of our on-going projects can be found in [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions).
+Our strategy is to find ways for people of all types of backgrounds to participate.
+Our on-going projects can be found in [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions).
 
 ## Why is interpretability research urgent for reasoning models?
 
-Interpretability research is important in general, but especially urgent in the case of reasoning models. (By "reasoning model," we mean LLMs that have been trained to exploit extended inference-time computation.) These systems appear to be powerful, yet remain mysterious. Understanding them better can help us create safer technology, sooner. It's also a grand intellectual challenge.
+Interpretability research is especially urgent in the case of reasoning models. (By "reasoning model" we mean LLMs that have been trained to exploit extended inference-time computation.) These systems appear to be powerful, yet remain mysterious. Understanding them better can help us create safer technology, sooner. It's also a grand intellectual challenge.
 
 See [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to participate!
 
 
 ## Why work collectively, in the open?
 
-Open-source reasoning models have appeared only recently, and many different groups are looking at them right now for the first time--likely working along similar lines. We think the community can move fast and save work by sharing partial results and early ideas. Although the academic machine learning already has an admirable culture of sharing preprints of finished work, we think it's worth experimenting with a more open model.
+Open-source reasoning models have appeared relatively recently, and many different groups are looking at them right now for the first time--likely working along similar lines. We think the community can move faster and save work by sharing partial results and early ideas. Although the academic machine learning community already has an admirable culture of sharing preprints of finished work, we think it's worth experimenting with an even more open model.
 
-An important element of our plan is to find ways for people many levels of experience and skill to participate. In a project like this, there will be important roles for experience ML researchers, for people looking to break into ML research with  small concrete coding projects, people who want to work on pure theory, who people like analyzing data, etc. In fact, there will may be room for "citizen science" where people with no direct machine learning experience can help find patterns in model outputs and inputs.
+An important element of our plan is to find ways for people many levels of experience and skill to participate. In a project like this, there will be important roles for experience ML researchers, for people looking to break into ML research with small concrete coding projects, people who want to work on pure theory, who people like analyzing data, etc. In fact, there will may be room for "citizen science" where people with no direct machine learning experience can help find patterns in model outputs and inputs.
 
 Our efforts are inspired by the world of open-source software, and also mathematical initiatives like [polymath](https://en.wikipedia.org/wiki/Polymath_Project) and [Equational Theories Project](https://teorth.github.io/equational_theories).
 
@@ -43,15 +43,16 @@ Some starting points:
 
 ### A note on authorship
 
-An issue that will naturally come up in this type of project is credit, especially authorship on papers. Indeed, our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We may add more formal guidance in the future, but for now we advocate an inclusive attitude toward authorship. See [CREDIT.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md) for more information.
+Our hope is that this project will catalyze multiple "classic" conference papers and collaborations. We advocate a fair, generous attitude toward authorship, as described in [CREDIT.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md) for more information.
 
 
 
 # How to use this repository.
 
-The [Discussion](https://github.com/ArborProject/arborproject.github.io/discussions) section is where all projects are being tracked.
-Anyone can participate, as well as kick off new projects.
+We track projects in the [Discussion](https://github.com/ArborProject/arborproject.github.io/discussions) section.
+Please browse through this list to get a sense of ongoing work, and find projects you might potentially want to join.
 
+To propose a new project, add a new discussion.
 The first post of each thread should follow a strict template, which includes the research question, current contributors, and project status.
 The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and TODO for examples.
 
