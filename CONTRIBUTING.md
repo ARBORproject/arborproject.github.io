@@ -9,7 +9,7 @@ and who can make different time commitments.
 
 We don't view ARBOR as a single monolithic effort. Instead, the idea is to divide into "projects,"
 where any research question with its own wiki page potentially counts as a project. Projects
-have three possible states:
+have four possible states:
 
 ### Starting a project
 
@@ -39,12 +39,14 @@ Although we encourage openness at all stages, it's conceivable that for a very a
 number of contributors. In these cases, we encourage project owners to think about ways of subdividing work into multiple
 projects, or, if necessary, place a notice on the project page that they already have as many contributors as they can handle.
 
-### Inactive: Completed / Dormant
+### Inactive / Dormant
 
-No project will last forever. In some cases, a project will end with a paper or blog; the owners should prominently note that
+If a project never quite gets off the ground, and no one has time to devote to it, please remove any owners, and add a note that it's  **dormant**--and be welcoming to anyone who eventually does have time in the future.
+
+### Completed
+
+A project can be considered completed when all planned experiments are done, the data is analyzed, and the results are written up in a report or publication. If a project ends with a paper or blog; the owners should prominently note that
 the project has been **completed**. (As a bonus: suggest future work building on the results, to seed new projects!)
-Similarly, if a project never quite gets off the ground, and no one has time to devote to it,
-please remove any owners, and add a note that it's  **dormant**--and be welcoming to anyone who eventually does have time in the future.
 
 ## Authorship and credit
 
