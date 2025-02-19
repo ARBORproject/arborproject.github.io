@@ -32,7 +32,7 @@ Join [Discussions](https://github.com/ArborProject/arborproject.github.io/discus
 
 ## How to participate
 
-All projects listed on [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) are seeking collaborators by default. (Projects that are not looking for contributors are labeled as _No longer seeking collaborators_)
+All projects listed on [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) are seeking collaborators by default. (Projects that are not looking for contributors are labeled as _No longer seeking collaborators_).
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some starting points:
 
 * We're using github [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to track active projects. If you want to propose or start a new project, follow feel free to start a new project thread; you can use [this intro](https://github.com/ArborProject/arborproject.github.io/discussions/1) as a template.
