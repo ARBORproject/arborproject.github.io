@@ -1,5 +1,7 @@
 # Welcome to Arbor
 
+<img src="https://arborproject.github.io/arbor-logo.png" width="256">
+
 Welcome! 
 Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
@@ -32,13 +34,13 @@ Join [Discussions](https://github.com/ArborProject/arborproject.github.io/discus
 
 ## How to participate
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some starting points:
+Please see [CONTRIBUTING.md](https://github.com/ArborProject/arborproject.github.io/blob/main/CONTRIBUTING.md) for details, but here are some starting points:
 
 * We're using github [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to track active projects. If you want to propose or start a new project, follow feel free to start a new project thread; you can use [this intro](https://github.com/ArborProject/arborproject.github.io/discussions/1) as a template.
 * Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to Arbor.
 * See who's involved at the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People). Feel free to add your name and your interests!
 * If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/ArborProject/arborproject.github.io/wiki/Bibliography).
-* Please read through our [notes on authorship/credit](CREDIT.md).
+* Please read through our [notes on authorship/credit](https://github.com/ArborProject/arborproject.github.io/blob/main/CREDIT.md).
 
 
 ### A note on authorship
