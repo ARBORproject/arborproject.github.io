@@ -12,7 +12,7 @@ Please take a look at [CONTRIBUTING.md](CONTRIBUTING.md) first, to understand ho
 What happens when it's time to write up some exciting results?
 
 For an academic paper, we recommend:
-* Project owner(s) will likely be first authors
+* Project owner(s) will be responsible for determining the author list according to contributions
   * If there are other core contributors, consider adding as co-first authors.
 * Anyone who made a significant contribution that is part of the write-up should be an author
   * We suggest being generous with what counts as "useful"
