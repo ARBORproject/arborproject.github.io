@@ -1,7 +1,7 @@
-# Welcome to Arbor
+# Welcome to ARBOR
 
 Welcome! 
-Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
+ARBOR (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
 To get started, take a look at the list of [project discussions](https://github.com/ArborProject/arborproject.github.io/discussions). If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like!
 
@@ -65,5 +65,5 @@ The first post should also be treated as a project-specific "Wiki" that summariz
 
 # Discord
 
-Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to Arbor.
+Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to ARBOR.
 
