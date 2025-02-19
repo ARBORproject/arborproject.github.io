@@ -53,8 +53,11 @@ We track projects in the [Discussion](https://github.com/ArborProject/arborproje
 Please browse through this list to get a sense of ongoing work, and find projects you might potentially want to join.
 
 To propose a new project, add a new discussion.
-The first post of each thread should follow a strict template, which includes the research question, current contributors, and project status.
-The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and TODO for examples.
+The first post of each thread should follow a strict template, which includes:
+- **Research Question** Capturing the main goal of the project
+- **Owners** Names(and github usernames) of project leads 
+- **Project status** Is this project ongoing? Are you looking for collaborators?
+The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and [this project page] for an example.
 
 
 
