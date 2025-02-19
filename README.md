@@ -36,7 +36,7 @@ All projects listed on [Discussions](https://github.com/ArborProject/arborprojec
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some starting points:
 
 * We're using github [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to track active projects. If you want to propose or start a new project, follow feel free to start a new project thread; you can use [this intro](https://github.com/ArborProject/arborproject.github.io/discussions/1) as a template.
-* Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to Arbor.
+* Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to ARBOR.
 * See who's involved at the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People). Feel free to add your name and your interests!
 * If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/ArborProject/arborproject.github.io/wiki/Bibliography).
 * Please read through our [notes on authorship/credit](CREDIT.md).
@@ -65,5 +65,5 @@ The first post should also be treated as a project-specific "Wiki" that summariz
 
 # Discord
 
-Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to ARBOR.
+Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to .
 
