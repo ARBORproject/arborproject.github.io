@@ -4,6 +4,8 @@ We welcome contributions! There are many ways to help out. By design,
 we're hoping to provide opportunities for people of many skill levels,
 and who can make different time commitments.
 
+All projects listed on [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) are seeking collaborators by default. Projects that are not looking for contributors are labeled as _No longer seeking collaborators_.
+
 
 ## Project Life Cycle
 
@@ -30,8 +32,7 @@ a project that you're already working on, or are committing to work on, then it 
 yourself as an owner. On the other hand, if you're joining a project with existing owners, please discuss
 with them before adding yourself.
 
-Please only put yourself as an owner if
-you really can spend time on a project. If you later decide you can't, you can always take yourself off
+Please only put yourself as an owner if you really can spend time on a project. If you later decide you can't, you can always take yourself off
 the owner list.
 
 Once a project is underway--that is, people are starting to share ideas, share experimental results, and so on--things can get hectic.
@@ -41,12 +42,12 @@ projects, or, if necessary, place a notice on the project page that they already
 
 ### Inactive / Dormant
 
-If a project never quite gets off the ground, and no one has time to devote to it, please remove any owners, and add a note that it's  **dormant**--and be welcoming to anyone who eventually does have time in the future.
+If a project never quite gets off the ground, and no one has time to devote to it, please remove any owners, and add the label **Status: Inactive**--and be welcoming to anyone who eventually does have time in the future.
 
 ### Completed
 
 A project is considered completed when experiments are done, the data is analyzed, and the results are written up in a report or publication. If a project ends with a paper or blog; the owners should prominently note that
-the project has been **completed**. We ask that onwers consider mentioning the ARBOR Project in reports and publications. (As a bonus: suggest future work building on the results, to seed new projects!)
+the project has been completed and add the label **Status: Done**. We ask that onwers consider mentioning the ARBOR Project in reports and publications. (As a bonus: suggest future work building on the results, to seed new projects!)
 
 ## Authorship and credit
 
