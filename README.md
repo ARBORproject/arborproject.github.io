@@ -32,7 +32,7 @@ Join [Discussions](https://github.com/ArborProject/arborproject.github.io/discus
 
 ## How to participate
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some starting points:
+Please see [CONTRIBUTING.md](https://gith ub.com/ArborProject/arborproject.github.io/blob/main/CONTRIBUTING.md) for details, but here are some starting points:
 
 * We're using github [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) to track active projects. If you want to propose or start a new project, follow feel free to start a new project thread; you can use [this intro](https://github.com/ArborProject/arborproject.github.io/discussions/1) as a template.
 * Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to Arbor.
