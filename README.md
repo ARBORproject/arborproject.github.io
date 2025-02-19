@@ -57,7 +57,7 @@ The first post of each thread should follow a strict template, which includes:
 - **Research Question** Capturing the main goal of the project
 - **Owners** Names(and github usernames) of project leads 
 - **Project status** Is this project ongoing? Are you looking for collaborators?
-The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see TODO for instructions and [this project page] for an example.
+The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see [instructions here](https://github.com/ArborProject/arborproject.github.io/discussions/1) and [an example here](https://github.com/ArborProject/arborproject.github.io/discussions/6).
 
 
 
