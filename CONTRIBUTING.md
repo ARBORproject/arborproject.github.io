@@ -1,4 +1,4 @@
-# Contributing to Arbor
+# Contributing to ARBOR
 
 We welcome contributions! There are many ways to help out. By design,
 we're hoping to provide opportunities for people of many skill levels,
@@ -51,4 +51,4 @@ the project has been completed and add the label **Status: Done**. We ask that o
 
 ## Authorship and credit
 
-We suggest a generous attitude toward providing credit to contributors. Please see [CREDIT.md](CREDIT.md) for details on how we see credit working for Arbor projects.
+We suggest a generous attitude toward providing credit to contributors. Please see [CREDIT.md](CREDIT.md) for details on how we see credit working for ARBOR projects.
