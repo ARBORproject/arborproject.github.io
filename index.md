@@ -1,4 +1,4 @@
-[Discussions](https://github.com/ArborProject/arborproject.github.io/discussions)
+[Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) [Discord](https://discord.com/channels/1092554540231962686/1337468527665352774) [Wiki](https://github.com/ARBORproject/arborproject.github.io/wiki)
 
 <img src="https://arborproject.github.io/arbor-logo.png" width="256" style="margin:0">
 
