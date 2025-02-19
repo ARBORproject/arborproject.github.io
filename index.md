@@ -1,6 +1,6 @@
-# Welcome to Arbor
+<img src="https://arborproject.github.io/arbor-logo.png" width="256" style="margin:0">
 
-<img src="https://arborproject.github.io/arbor-logo.png" width="256">
+# Welcome to Arbor
 
 Welcome! 
 Arbor (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
