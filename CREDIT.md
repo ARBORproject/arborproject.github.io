@@ -1,4 +1,4 @@
-# Credit and authorship (DRAFT)
+# Credit and authorship
 
 The goal of this project is to advance our knowledge of neural nets, through collective research.
 
