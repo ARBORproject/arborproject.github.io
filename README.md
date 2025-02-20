@@ -41,6 +41,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some sta
 * Join our [Discord](https://discord.gg/SeBdQbRPkA). We are using [NDIF](https://ndif.us/)'s server - once you join, look for channels related to ARBOR.
 * See who's involved at the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People). Feel free to add your name and your interests!
 * If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/ArborProject/arborproject.github.io/wiki/Bibliography).
+* Have an interesting small observation? Add it to the [Observations wiki page](https://github.com/ARBORproject/arborproject.github.io/wiki/Observations).
 * Please read through our [notes on authorship/credit](CREDIT.md).
 
 
