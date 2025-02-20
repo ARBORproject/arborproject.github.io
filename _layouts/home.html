@@ -8,33 +8,31 @@ layout: default
             display: inline-block;
             margin: 1rem 0;
             padding: 0.4rem 1rem;
-            color: black;
-            background: white !important;
+            color: white;
+            background: black !important;
             font-family: monospace;
             font-size: 16px;
             text-decoration: underline;
-            border: thin solid white;
-            position: relative;
-            z-index: 1;
+            border: thin solid black;
 
             body[a="dark"] & {
-                color: black !important;
-                background: white !important;
-                border-color: white !important;
+                color: white !important;
+                background: black !important;
+                border-color: black !important;
                 filter: none !important;
             }
 
             @media (prefers-color-scheme: dark) {
                 body[a="auto"] & {
-                color: black !important;
-                background: white !important;
-                border-color: white !important;
+                color: white !important;
+                background: black !important;
+                border-color: black !important;
                 filter: none !important;
                 }
             }
 
             &:hover {
-                background: #eee !important;
+                background: grey !important;
             }
         }
     </style>
