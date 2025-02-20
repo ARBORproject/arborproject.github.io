@@ -70,3 +70,8 @@ The first post should also be treated as a project-specific "Wiki" that summariz
 
 Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to .
 
+
+<br><br><br>
+## Maintainers 
+This project is maintained by the [Bau Lab](https://baulab.info/) at Northeastern and the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) at Harvard. Please visit the [GitHub repository](https://github.com/ARBORproject/arborproject.github.io) for more information.
+
