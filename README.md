@@ -54,7 +54,7 @@ Our hope is that this project will catalyze multiple "classic" conference papers
 
 We track projects in the [Discussion](https://github.com/ArborProject/arborproject.github.io/discussions) section.
 Please browse through this list to get a sense of ongoing work, and find projects you might potentially want to join.
-If you want to get started with interpretability research, check the [Introductory Ressources for the Curious](https://github.com/ARBORproject/arborproject.github.io/wiki/Introductory-Resources-for-the-Curious).
+If you want to get started with interpretability research, check the [Introductory Resources for the Curious](https://github.com/ARBORproject/arborproject.github.io/wiki/Introductory-Resources-for-the-Curious).
 
 To propose a new project, add a new discussion.
 The first post of each thread should follow a strict template, which includes:
