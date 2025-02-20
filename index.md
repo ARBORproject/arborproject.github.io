@@ -1,4 +1,5 @@
-<img src="https://arborproject.github.io/assets/banner.jpg" width="256" style="margin:0">
+![banner](assets/banner.jpg)
+
 
 # Welcome to ARBOR
 
