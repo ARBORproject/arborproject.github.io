@@ -1,15 +1,15 @@
-[Discussions](https://github.com/ArborProject/arborproject.github.io/discussions){: .button}
-
 <img src="https://arborproject.github.io/arbor_logo.png" width="256" style="margin:0">
 
 # Welcome to ARBOR
 
 Welcome! 
-ARBOR (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)  is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
+ARBOR (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch) is an open collaboration, where people across the internet can work together publicly and in real time, to collectively analyze and interpret AI reasoning models. 
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
-To get started, take a look at the list of [project discussions](https://github.com/ArborProject/arborproject.github.io/discussions). If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like!
+To get started, take a look at the projects. 
 
-Our goal is to create a clearinghouse where people can:
+[project discussions](https://github.com/ArborProject/arborproject.github.io/discussions){: .button}
+
+If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like! Our goal is to create a clearinghouse where people can:
 * Ask, discuss, and prioritize research questions
 * Post, discuss, and analyze early and partial experimental results
 * Provide a reference for what the research community has learned.
