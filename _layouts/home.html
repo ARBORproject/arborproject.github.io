@@ -1,6 +1,43 @@
 ---
 layout: default
 ---
+
+<head>
+    <style>
+        .button {
+            display: inline-block;
+            margin: 1rem 0;
+            padding: 0.4rem 1rem;
+            color: black;
+            background: white !important;
+            font-family: monospace;
+            font-size: 16px;
+            text-decoration: underline;
+            border: thin solid white;
+
+            body[a="dark"] & {
+                color: black !important;
+                background: white !important;
+                border-color: white !important;
+                filter: none !important;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                body[a="auto"] & {
+                color: black !important;
+                background: white !important;
+                border-color: white !important;
+                filter: none !important;
+                }
+            }
+
+            &:hover {
+                background: #eee !important;
+            }
+        }
+    </style>
+</head>
+
 <header>
 </header>
 
