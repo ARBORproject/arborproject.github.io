@@ -1,31 +1,49 @@
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   filter: invert(1);
+
   img {
     filter: invert(1);
 
-    &.ioda { filter: invert(0); }
+    &.ioda {
+      filter: invert(0);
+    }
   }
-  .emoji { filter: invert(1); }
+
+  .emoji {
+    filter: invert(1);
+  }
+
   iframe {
     filter: invert(1);
   }
 }
 
-body[a="dark"] { @include dark-appearance; }
+body[a="dark"] {
+  @include dark-appearance;
+}
 
 
 @media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
+  body[a="auto"] {
+    @include dark-appearance;
+  }
 }
+
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html,
+body {
+  background: white;
+}
 
-html { height: 100%; scroll-behavior: smooth; }
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
 
 body {
   color: black;
@@ -37,19 +55,42 @@ body {
   overflow-wrap: break-word;
 }
 
-.post-meta { text-align: right; }
+.post-meta {
+  text-align: right;
+}
 
-header {text-align: center;}
-h1 { margin-left: 1rem; }
-h2, h3, h4, h5, h6 { margin-top: 1rem; margin-left: 1rem; }
+header {
+  text-align: center;
+}
 
-hr { margin: 2rem 0; }
+h1 {
+  margin-left: 1rem;
+}
 
-p { margin: 1rem 1rem; }
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
 
-li { margin: 0.4rem 0; }
+hr {
+  margin: 2rem 0;
+}
 
-*:target { background: yellow; }
+p {
+  margin: 1rem 1rem;
+}
+
+li {
+  margin: 0.4rem 0;
+}
+
+*:target {
+  background: yellow;
+}
 
 .w {
   max-width: 720px;
@@ -61,13 +102,22 @@ hr {
   text-align: center;
   border: 0;
 
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
+  &:before {
+    content: '/////'
+  }
+
+  &:after {
+    content: attr(data-content) '/////'
+  }
 }
 
-table { width: 100%; }
+table {
+  width: 100%;
+}
 
-table, th, td {
+table,
+th,
+td {
   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
@@ -90,11 +140,29 @@ blockquote {
   border: thin solid black;
   padding: 1rem;
 
-  p { margin: 0; }
+  p {
+    margin: 0;
+  }
 }
 
 img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  border: 2px solid black;
+  font-weight: bold;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
 }

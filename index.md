@@ -1,4 +1,4 @@
-[Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) 
+[Discussions](https://github.com/ArborProject/arborproject.github.io/discussions){: .button}
 
 <img src="https://arborproject.github.io/arbor_logo.png" width="256" style="margin:0">
 
