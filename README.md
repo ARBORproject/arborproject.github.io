@@ -60,7 +60,14 @@ The first post of each thread should follow a strict template, which includes:
 The first post should also be treated as a project-specific "Wiki" that summarizes the current status of the project. Please see [instructions here](https://github.com/ArborProject/arborproject.github.io/discussions/1) and [an example here](https://github.com/ArborProject/arborproject.github.io/discussions/6).
 
 
-
 # Discord
 
-Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to Arbor.
+Join our [Discord](https://discord.gg/SeBdQbRPkA)! We are using NDIF's server - once you join, look for channels related to ARBOR.
+
+
+<br><br>
+## Maintainers 
+This project is maintained by the [Bau Lab](https://baulab.info/) at Northeastern and the [Insight and Interaction Lab](https://insight.seas.harvard.edu/) at Harvard. Please visit the [GitHub repository](https://github.com/ARBORproject/arborproject.github.io) for more information.
+
+
+
