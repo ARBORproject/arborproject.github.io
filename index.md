@@ -1,6 +1,6 @@
 [Discussions](https://github.com/ArborProject/arborproject.github.io/discussions) 
 
-<img src="https://arborproject.github.io/arbor-logo.png" width="256" style="margin:0">
+<img src="https://arborproject.github.io/arbor_logo.png" width="256" style="margin:0">
 
 # Welcome to ARBOR
 
