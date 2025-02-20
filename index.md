@@ -7,7 +7,7 @@ ARBOR (**A**nalysis of **R**easoning **B**ehavior through **O**pen **R**esearch)
 By sharing partial progress and early results, we aim to eliminate duplicative work and dramatically accelerate progress.
 To get started, take a look at the projects. 
 
-[project discussions](https://github.com/ArborProject/arborproject.github.io/discussions){: .button}
+[Project Discussions](https://github.com/ArborProject/arborproject.github.io/discussions){: .button}
 
 If you're curious who's involved, see the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People) of the wiki—and please add yourself if you like! Our goal is to create a clearinghouse where people can:
 * Ask, discuss, and prioritize research questions
