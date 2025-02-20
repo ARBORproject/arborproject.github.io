@@ -153,16 +153,33 @@ img {
 
 .button {
   display: inline-block;
-  padding: 8px 16px;
-  background-color: white;
+  margin: 1rem 0;
+  padding: 0.4rem 1rem;
   color: black;
-  text-decoration: none;
-  border: 2px solid black;
-  font-weight: bold;
-  transition: all 0.2s ease;
+  background: white !important;
+  font-family: monospace;
+  font-size: 16px;
+  text-decoration: underline;
+  border: thin solid black;
+
+  // Dark mode - white border, white background, black text
+  body[a="dark"] & {
+    color: black !important;
+    background: white !important;
+    border-color: white !important;
+    filter: none !important;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body[a="auto"] & {
+      color: black !important;
+      background: white !important;
+      border-color: white !important;
+      filter: none !important;
+    }
+  }
 
   &:hover {
-    background-color: black;
-    color: white;
+    background: #eee !important;
   }
 }
