@@ -42,7 +42,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details, but here are some sta
 * See who's involved at the [People page](https://github.com/ArborProject/arborproject.github.io/wiki/People). Feel free to add your name and your interests!
 * If you have finished work, or know of a paper on arxiv people might be interested in, please publicize it on Discord, and add a link to the [Bibliography](https://github.com/ArborProject/arborproject.github.io/wiki/Bibliography).
 * Have an interesting small observation? Add it to the [Observations wiki page](https://github.com/ARBORproject/arborproject.github.io/wiki/Observations).
-* Please read through our [notes on authorship/credit](CREDIT.md), and the [license](LICENSE.md) for material in this repo.
+* Please read through our [notes on authorship/credit](CREDIT.md), and the [license](LICENSE) for material in this repo.
 
 
 ### A note on authorship
